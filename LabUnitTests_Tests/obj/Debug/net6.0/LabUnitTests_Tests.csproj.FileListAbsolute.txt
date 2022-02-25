@@ -1,0 +1,5 @@
+C:\Users\zabad\source\repos\LabUnitTests\LabUnitTests_Tests\obj\Debug\net6.0\LabUnitTests_Tests.csproj.AssemblyReference.cache
+C:\Users\zabad\source\repos\LabUnitTests\LabUnitTests_Tests\obj\Debug\net6.0\LabUnitTests_Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zabad\source\repos\LabUnitTests\LabUnitTests_Tests\obj\Debug\net6.0\LabUnitTests_Tests.AssemblyInfoInputs.cache
+C:\Users\zabad\source\repos\LabUnitTests\LabUnitTests_Tests\obj\Debug\net6.0\LabUnitTests_Tests.AssemblyInfo.cs
+C:\Users\zabad\source\repos\LabUnitTests\LabUnitTests_Tests\obj\Debug\net6.0\LabUnitTests_Tests.csproj.CoreCompileInputs.cache
